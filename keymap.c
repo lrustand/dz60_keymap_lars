@@ -161,4 +161,13 @@ void matrix_scan_user(void){
         }
     }
 }
+
+
+void matrix_init_user(void) {
+    //    place your keyboard startup
+    //    code here
+    rgblight_disable();
+    rgblight_setrgb(0,0,0);
+}
+
 /* vim: set expandtab noai ts=4 sw=4: */
