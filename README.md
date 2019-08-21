@@ -49,6 +49,6 @@ The base layer is pretty straight forward, except for the `SpaceFN` keys, which 
   |      |     |      |   Flipnums    |Flipnum|   Flipnums    |     |     |Home |PgDn | End |
   `-----------------------------------------------------------------------------------------'
  ```
-Layer 2 contains `F1`-`F12`, `Page Up`/`Page Down`, `Home`/`End`, and the `Flipnums` key which toggles flipped number row mode.
+The FN layer contains `F1`-`F12`, `Page Up`/`Page Down`, `Home`/`End`, and the `Flipnums` key which toggles flipped number row mode.
 
 In addition to the layers, there is also the flipped number row mode, Flipnums mode. In Flipnums mode the numbers and symbols are swapped, so that you don't need to hold shift to type symbols.
