@@ -4,10 +4,10 @@ This is a QMK keymap for my custom dz60 keyboard, featuring split space key, arr
 ## Features
 + ANSI layout
 + ISO Enter
-+ SpaceFN (FN when held down, Space when tapped)
++ SpaceFN (`FN` when held down, `Space` when tapped)
 + Split Space
 + Flipped numbers mode
-+ CtrlEsc (Control when held down, Esc when tapped)
++ CtrlEsc (`Ctrl` when held down, `Esc` when tapped)
 + Active layer indicated by backlight color
 
 ## How-To
