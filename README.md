@@ -13,7 +13,7 @@ This is a QMK keymap for my custom dz60 keyboard, featuring split spacebar, arro
 ## How-To
 This guide assumes that you have already cloned the source code for QMK firmware, if not you can find it [here](https://github.com/qmk/qmk_firmware/).
 
-Put my `keymap.c` file in `$qmk-firmware$/keyboards/dz60/keymaps/dz60_keymap_lars/`. Then from the `$qmk-firmware$` folder run `make dz60:dz60_keymap_lars:dfu` to compile the firmware and flash the keyboard.
+Put my `keymap.c` file in `$qmk-firmware$/keyboards/dz60/keymaps/dz60_keymap_lars/`. Then from the `$qmk-firmware$` folder run `make dz60:dz60_keymap_lars:dfu` to compile the firmware and flash it to the keyboard.
 
 ## Layout
 
