@@ -1,5 +1,5 @@
 # My dz60 keymap
-This is a QMK keymap for my custom dz60 keyboard, featuring split space key, arrow keys, and "flippable" number row.
+This is a QMK keymap for my custom dz60 keyboard, featuring split spacebar, arrow keys, and "flippable" number row.
 
 ## Features
 + ANSI layout
